@@ -1,0 +1,9 @@
+ТОП САМЫХ  ПОПУЛЯРНЫПХ  ПРОГРАММ  НА УБУНТУ....
+10
+Всем  очень хочется иметькрасивое оформление своей системы и больше всего внимания ты обращаешь на обои 
+livepapper
+sudo add-apt-repository ppa:fyrmir/livewallpaper-daily
+sudo apt-get update && sudo apt-get install livewallpaper livewallpaper-config livewallpaper-indicator
+А это очень популярный фоторедактор GIMP
+
+sudo apt install gimp
